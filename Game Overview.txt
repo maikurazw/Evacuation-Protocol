@@ -1,1 +1,172 @@
+# Evacuation Protocol
 
+## About the Game
+
+**Evacuation Protocol** is a realistic PvPvE survival FPS set in a massive city devastated by war, a deadly virus, and rogue AI systems.
+
+Players must explore the city, fight both hostile AI and other players, solve puzzles, rescue survivors, gather resources, and ultimately escape before it's too late.
+
+The game focuses on tactical combat, exploration, teamwork, and survival rather than simply eliminating every opponent.
+
+---
+
+## Story
+
+A large-scale war and a biological disaster have pushed the city into total collapse.
+
+Military AI units, security systems, and automated defense networks have gone out of control after being infected by an unknown virus. The city has become a restricted evacuation zone.
+
+As one of the remaining survivors, your mission is to stay alive, help civilians, uncover the truth behind the disaster, and find a way to escape.
+
+---
+
+## Gameplay
+
+* First-Person Shooter (FPS)
+* PvPvE (Players vs Players vs Environment)
+* Up to 20 players per match
+* Smart AI enemies and powerful bosses
+* Puzzle-solving mechanics
+* Escape-based objectives
+* Dynamic weather system
+* Day and night cycle
+* Character customization
+* Weapon customization
+* Level progression and experience system
+* Rescue civilians for additional rewards
+* Home Base progression between matches
+
+---
+
+## Features
+
+### Combat
+
+* Realistic gunplay
+* Multiple weapon categories
+* Weapon durability
+* Weapon attachments
+* Tactical equipment
+* Melee weapons
+
+### AI
+
+* Multiple AI factions
+* Intelligent boss AI
+* Building exploration
+* Door interaction
+* Grenade usage
+* Healing behavior
+* Footstep and sound detection
+* Team coordination
+
+### Environment
+
+* Massive urban maps
+* Weather changes
+* Power outages
+* Interactive buildings
+* Hidden underground areas
+* Escape routes
+
+### Progression
+
+* Experience points
+* Character levels
+* Skill system
+* Equipment upgrades
+* Loot extraction
+* Unlockable cosmetics
+
+---
+
+## Technologies
+
+### Client
+
+* HTML5
+* CSS3
+* JavaScript
+* Three.js
+
+### Server
+
+* Node.js
+* WebSocket
+
+### Development
+
+* Visual Studio Code
+* Git
+* GitHub
+
+---
+
+## Roadmap
+
+### Phase 1
+
+* Player movement
+* Camera
+* Shooting
+* Basic UI
+
+### Phase 2
+
+* AI
+* Weapons
+* Inventory
+* Animations
+
+### Phase 3
+
+* Multiplayer
+* Matchmaking
+* Synchronization
+
+### Phase 4
+
+* Bosses
+* Puzzles
+* Escape system
+* Dynamic events
+
+### Phase 5
+
+* Optimization
+* New maps
+* Seasonal updates
+* Mobile version research
+
+---
+
+## Contributors Wanted
+
+This is an open-source project, and contributors are welcome.
+
+We are currently looking for:
+
+* Three.js Developers
+* JavaScript Developers
+* Node.js Developers
+* Gameplay Programmers
+* AI Programmers
+* UI/UX Designers
+* 3D Artists
+* Sound Designers
+* Testers
+* Technical Writers
+
+Feel free to open an Issue, start a Discussion, or submit a Pull Request.
+
+---
+
+## Installation
+
+Instructions will be added as development progresses.
+
+---
+
+## License
+
+This project will be released under the MIT License.
