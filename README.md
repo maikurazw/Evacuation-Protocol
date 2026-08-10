@@ -37,7 +37,7 @@ This project is currently in its **very early conception / pre-alpha stage**. Th
 If you want to check the current file structure:
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone <https://github.com/maikurazw/Evacuation-Protocol>
    ```
 
 **We need your help to build the foundation of this game!** Whether you want to write the first lines of code, create the initial 3D models, or design the UI, please join us.
