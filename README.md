@@ -29,8 +29,35 @@ I'm currently looking for:
 
 Whether you're an experienced developer or someone who wants to learn and contribute, you're welcome to join.
 
-If you're interested, feel free to open an Issue, start a Discussion, or submit a Pull Request.
+---
+
+## 🚀 How to Run
+
+To test and run this project locally, please follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone <https://github.com/maikurazw/Evacuation-Protocol>
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
+4. **Open in your browser:**
+   Open `http://localhost:3000` (or your local port) to play.
+
+---
+
+## 🤝 How to Join & Contribute
+
+We highly welcome your contributions! If you want to join the project, please follow these steps:
+
+1. Go to the **[Issues]** tab of this repository.
+2. Click **[New Issue]** and let us know you want to join! (Feel free to share what you'd like to work on, such as Three.js, 3D Art, Sound, etc.)
+3. You can also start a **[Discussion]** or submit a **[Pull Request]** directly.
 
 Let's build an amazing game together!
-
-Please submit your application or contact us by opening a New Issue.
