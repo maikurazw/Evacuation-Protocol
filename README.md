@@ -30,27 +30,17 @@ I'm currently looking for:
 Whether you're an experienced developer or someone who wants to learn and contribute, you're welcome to join.
 
 ---
+## 🚀 Project Status & How to Run
 
-## 🚀 How to Run
+This project is currently in its **very early conception / pre-alpha stage**. The core game code has not been built yet—we are starting from scratch!
 
-To test and run this project locally, please follow these steps:
-
+If you want to check the current file structure:
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/maikurazw/Evacuation-Protocol>
+   git clone <YOUR_REPOSITORY_URL>
    ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Start the development server:**
-   ```bash
-   npm start
-   ```
-4. **Open in your browser:**
-   Open `http://localhost:3000` (or your local port) to play.
 
----
+**We need your help to build the foundation of this game!** Whether you want to write the first lines of code, create the initial 3D models, or design the UI, please join us.
 
 ## 🤝 How to Join & Contribute
 
