@@ -32,3 +32,5 @@ Whether you're an experienced developer or someone who wants to learn and contri
 If you're interested, feel free to open an Issue, start a Discussion, or submit a Pull Request.
 
 Let's build an amazing game together!
+
+Please submit your application or contact us by opening a New Issue.
