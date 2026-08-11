@@ -1,53 +1,51 @@
-# Contributors Wanted – Evacuation Protocol
+# ⚡ Evacuation Protocol
 
-Hello! I'm currently developing **Evacuation Protocol**, a realistic PvPvE survival FPS built with **Three.js** and **Node.js**.
+A tactical, high-stakes PvPvE survival FPS built from scratch with **Three.js** and **Node.js**. 
 
-The game is planned to include:
-
-* First-person shooter (FPS) gameplay
-* PvPvE (Players vs Players vs AI)
-* Battle Royale mode (up to 20 players)
-* Smart AI enemies and unique boss battles
-* Puzzle-solving elements
-* Dynamic weather and day/night cycle
-* Character customization
-* Weapon customization
-* Escape-based gameplay instead of only being the last survivor
-
-This project is open source, and I'm looking for people who are interested in helping with development.
-
-I'm currently looking for:
-
-* JavaScript / Three.js developers
-* Node.js developers
-* Game programmers
-* 3D artists
-* UI/UX designers
-* Sound designers
-* Testers
-* Technical writers
-
-Whether you're an experienced developer or someone who wants to learn and contribute, you're welcome to join.
+Unlike standard battle royales, your ultimate objective isn't just to be the last survivor—it is to **strategize, survive, and successfully extract** from a hostile zone through intense stealth-hacking mechanics.
 
 ---
-## 🚀 Project Status & How to Run
 
-This project is currently in its **very early conception / pre-alpha stage**. The core game code has not been built yet—we are starting from scratch!
+## 🎯 Project Vision & Core Mechanics
 
-If you want to check the current file structure:
-1. **Clone the repository:**
-   ```bash
-   git clone <https://github.com/maikurazw/Evacuation-Protocol>
-   ```
+We are aiming for a realistic, hardcore survival experience directly in the browser. The gameplay is built around three core pillars:
 
-**We need your help to build the foundation of this game!** Whether you want to write the first lines of code, create the initial 3D models, or design the UI, please join us.
+1. **Tactical Extraction Gameplay**: Find hidden terminals, initiate a 15-second silent hack, and defend the perimeter. No loud alarms—pure stealth and spatial awareness.
+2. **Realistic Ballistics Simulation**: No hitscan. Every bullet is a physical projectile affected by travel time, velocity, and gravity drop.
+3. **High-Stakes Realism**: Features an intentionally brutal **5.0-second reload duration** to emphasize positioning, ammo management, and tactical pacing.
 
-## 🤝 How to Join & Contribute
+👉 **Read the full design architecture in our [Game Specification Document](./Game_Specification.md).**
 
-We highly welcome your contributions! If you want to join the project, please follow these steps:
+---
 
-1. Go to the **[Issues]** tab of this repository.
-2. Click **[New Issue]** and let us know you want to join! (Feel free to share what you'd like to work on, such as Three.js, 3D Art, Sound, etc.)
-3. You can also start a **[Discussion]** or submit a **[Pull Request]** directly.
+## 🛠️ Project Status: Pre-Alpha (Conception Stage)
 
-Let's build an amazing game together!
+This project is currently in its **very early conception stage**. The architectural blueprint is fully ready, and we are now looking for pioneers to help us write the very first lines of code and build the foundation!
+
+### Technology Stack
+* **Frontend/Graphics**: Three.js / WebGL / Vanilla JS (or Vite-based workflow)
+* **Backend/Multiplayer**: Node.js / WebSockets
+
+---
+
+## 🤝 Open Positions (Contributors Wanted)
+
+Whether you are a seasoned expert or looking to build a massive portfolio piece, we need your help. We are actively looking for:
+
+* **JavaScript / Three.js Developers** (Core gameplay, camera mechanics, physics integration)
+* **Node.js Developers** (Multiplayer backend, state synchronization, matchmaking)
+* **3D Artists & Animators** (Low-poly/Optimized assets, weapon models, environment assets)
+* **UI/UX Designers** (Tactical HUD, main menus, inventory layouts)
+* **Sound Designers** (Ambient environment tracks, mechanical weapon sounds)
+
+---
+
+## 🚀 How to Join Us
+
+We treat this project as a collaborative sandbox. To get involved, please follow these steps:
+
+1. **Check the Blueprint**: Review our [Game Specification](./Game_Specification.md) to see what we are building.
+2. **Raise an Issue**: Head to the **[Issues]** tab, click **[New Issue]**, and let us know what part of the project you want to spearhead (e.g., "I want to set up the basic Three.js boilerplate").
+3. **Join the Discussion**: Feel free to open a **[Discussion]** or submit a foundational Pull Request directly!
+
+*Let's build the most ambitious browser-based tactical FPS together.*
