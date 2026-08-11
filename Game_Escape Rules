@@ -1,1 +1,28 @@
+---
 
+## 4. Extraction (Escape) System
+The ultimate victory condition of the game is not to eliminate all enemies, but to "survive and escape the battlefield." Phase 1 implements the following stealth-focused extraction mechanics.
+
+---
+
+### A. Extraction Point Specifications
+*   **Placement**: There are **2 to 3** fixed extraction points distributed across the map (e.g., electronically locked underground tunnel gates, emergency evacuation hatches).
+*   **Visibility**: The locations of these extraction points are permanently indicated via icons on the player's HUD/map (or revealed under specific match conditions).
+*   **Activation**: Extraction points are not available immediately at the start of the match; they become active once the remaining match time drops below a specific threshold.
+
+---
+
+### B. Stealth Hacking Process
+*   **Initiating Hacking**: To escape, a player must approach the control console at an extraction point and interact with it to begin hacking the gate.
+*   **Hacking Duration**: **15 seconds**.
+*   **Player Advantage (Stealth)**: During the 15-second hacking process, **no loud alarms or sirens are triggered**. The system remains silent, allowing players to stay concealed in nearby cover while the hacking progress bar fills.
+*   **Interruption & Reset Conditions**: 
+    *   The progress resets if the player steps outside the designated perimeter of the console before completion.
+    *   The progress resets instantly if the player takes any damage from enemies (AI or rival players).
+
+---
+
+### C. Extraction Completion & Gate Release
+*   **Audio Cue upon Success**: The moment the hacking progress reaches 100%, a distinct mechanical sound of the electronic lock releasing echoes within a short radius.
+*   **Final Evacuation**: Once the gate opens, the player must physically step inside the gateway to successfully extract and clear the game.
+*   **Tactical Gameplay**: Success depends on staying hidden for 15 seconds. Players can drastically increase their chances of survival by scouting the area and silently eliminating nearby AI enemies before initiating the hack.
